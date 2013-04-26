@@ -1,8 +1,4 @@
-/*
- * Copyright (c) 2009, International Business Machines Corporation, 
- * CDL User Technologies Development. All rights reserved.
- */
-package abacus.sjtu.edu.cn;
+package huchangchun.sjtu.edu.cn;
 
 public class FtpInfo {
 
